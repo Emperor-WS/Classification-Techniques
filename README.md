@@ -8,4 +8,5 @@ KNN\
 Logistic Regression\
 Naive Bayes\
 Random Forest\
-SVM
+SVM\
+using Grid search and k-fold techniques as well
